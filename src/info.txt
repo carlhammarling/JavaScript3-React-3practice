@@ -1,0 +1,22 @@
+
+
+Sedan ska du hämta todos från https://jsonplaceholder.typicode.com/todos direkt när din sida laddas.
+
+
+
+Du ska använda dig av .map för att loopa igenom alla todos och visa dom på din sida.
+
+
+Gör ett enklare formulär med en text-input och en knapp där man kan lägga till nya todos.
+
+När man klickar på en todo så ska den klarmarkeras och alla klara todos ska stylas annorlunda så det syns att dom är klara.
+
+
+
+Varje todo ska ha en knapp där man kan ta bort den todon som man klickar på.
+
+
+
+
+
+Här får du välja själv om du vill göra POST, PUT/PATCH och DELETE mot jsonplaceholder eller om du bara hanterar det direkt i din frontend.
